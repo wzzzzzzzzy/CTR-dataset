@@ -1,7 +1,6 @@
 # CTR-dataset
-这里是CTR dataset的压缩包，已经划分好了训练集、验证集和测试集
-
-文件夹的结构如下：
+This is the compressed package of the CTR dataset, which has been divided into training, validation, and testing sets.
+The structure of the folder is as follows:
 
 --train
 
@@ -27,9 +26,8 @@
 
 --------03_2
 
-val和test文件夹结构与train一致
+The folder structure of val and test is consistent with train.
 
-其中01代表拉毛，02代表露骨料，03代表PE膜，
-后缀表示粗糙程度，_1代表非常光滑，_2代表光滑，_3代表粗糙，_4代表非常粗糙
+Among them, 01 represents brooming, 02 represents exposed aggregate, and 03 represents PE membrane, the suffix represents roughness grades, where _1 represents very smooth, _2 represents smooth, _3 represents rough, and _4 represents very rough.
 
-3d扫描法获得的粗糙度数据存储在了3d_laser_scaning_results.xlsx文件中
+The roughness data obtained by the 3D laster scanning method is stored in the 3d_laser_scaning-results.xlsx file.
